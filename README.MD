@@ -3,7 +3,7 @@
 </p>
 
 
-<img src="https://img.shields.io/static/v1?label=DEV&message=Dev_BackEnd&color=red&style=flat-square">:heavy_check_mark:<br>
+<img src="https://img.shields.io/static/v1?label=DEV&message=Em Andamento&color=red&style=flat-square">:heavy_check_mark:<br>
 
 ## 💻 Projeto
 
