@@ -2,8 +2,8 @@
   <img width="100" height="80%" src="https://lh3.googleusercontent.com/Cu4tW4GHK6MzAxjj1vbAsWnnC5nYX4cN5YxbwPcdbFQ7GoAw0zKEPUWzTlAdHs0Iyg" alt="WhatsApp BOT"></a>
 </p>
 
-<img src="https://img.shields.io/static/v1?label=Status&message=Em Desenvolvimento&color=red&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=PHP&message=Dev_BackEnd&color=blue&style=flat-square">:heavy_check_mark:<br>
+
+<img src="https://img.shields.io/static/v1?label=DEV&message=Dev_BackEnd&color=red&style=flat-square">:heavy_check_mark:<br>
 
 ## 💻 Projeto
 
