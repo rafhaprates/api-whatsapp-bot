@@ -3,6 +3,7 @@
 </p>
 
 <img src="https://img.shields.io/static/v1?label=Status&message=Em Desenvolvimento&color=red&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=PHP&message=Dev_BackEnd&color=blue&style=flat-square">:heavy_check_mark:<br>
 
 ## 💻 Projeto
 
@@ -10,10 +11,10 @@ A aplicação simula a conexão com WhatsApp Web através do **Puppeteer**, inst
 
 ## RoadMap
 
-[X] - Inicio do Desenvolvimento
-[X] - Liberação da Primeira Versão
-[X] - Testes
-[ ] - Conclusão do Projeto
+[X] - Inicio do Desenvolvimento <br>
+[X] - Liberação da Primeira Versão <br>
+[X] - Testes<br>
+[ ] - Conclusão do Projeto<br>
 
 
 
